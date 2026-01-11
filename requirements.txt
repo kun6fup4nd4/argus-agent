@@ -5,3 +5,4 @@ agno>=0.1.0
 argparse>=1.4.0
 google-genai
 openai
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
